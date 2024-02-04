@@ -1,0 +1,11 @@
+{
+  "name": "app-0_coreapp",
+  "version": "0.0.1",
+  "description": "Core app of signle-spa",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Damir Akzhigitov <damir.cy@gmail.com> (https://github.com/DamirAkzhigitov)",
+  "license": "ISC"
+}
